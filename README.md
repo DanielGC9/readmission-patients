@@ -25,6 +25,7 @@ Para ejecutar este proyecto localmente, sigue los siguientes pasos:
     ```bash
     git clone https://github.com/DanielGC9/readmission-patients.git
     cd readmission-patients
+    python src/main/main_cron.py
     ```
 
 2. Crea un entorno virtual e instala las dependencias:
